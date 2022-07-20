@@ -425,4 +425,8 @@ main{
     .imagen_historia{
         padding: 0;
     }
+
+   .content-slider{
+        flex-direction: column;
+   }
 }
