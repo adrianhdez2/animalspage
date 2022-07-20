@@ -410,7 +410,9 @@ main{
     }
 
     .texto_historia,
-    .imagen_historia{
+    .imagen_historia,
+    .contenedor_seccion_slider
+    .imagen_seccion_slider{
         width: 100%;
     }
 
